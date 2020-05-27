@@ -8,5 +8,5 @@ npm run dev
 
 Go to localhost:3000
 ```
-##Demo
-[chatapp.gif]
+## Demo
+(chatapp.gif)
